@@ -7,6 +7,7 @@ import plotly.express as px
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
+server = app.server
 
 # Load the CSV data for the second graph
 csv_url = "https://raw.githubusercontent.com/madohe94/TS/main/join_surprise_spotify.csv"
