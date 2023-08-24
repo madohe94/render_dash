@@ -113,7 +113,7 @@ app.layout = html.Div([
     html.Div([
         dcc.Graph(id='surprise-graph', figure=fig2),
         html.Br(),
-        html.P("If you find this dashboard useful, consider supporting me by buying me a coffee!"),
+        html.P("If you find this dashboard useful, consider supporting me by buying me a coffee!, more features and improvements coming soon!"),
         html.A("Buy Me a Coffee", href="https://www.buymeacoffee.com/madohe794", target="_blank")
     ], className="six columns")
 ], className="row")
