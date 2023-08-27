@@ -41,11 +41,12 @@ album_colors = {
     "Red (Taylor's Version)": 'red',
     "1989 (Deluxe)": 'blue',
     "Fearless (Taylor's Version)": 'goldenrod',
-    "Red (Taylor's Version)": 'red',
     "Midnights (The Til Dawn Edition)": 'rebeccapurple',
     "evermore (deluxe version)": 'darkorange',
     "folklore (deluxe version)": 'grey',
-    "reputation": 'black'
+    "reputation": 'black',
+    "Taylor Swift": 'green',
+    'Other': 'blue'
     # Add more albums and colors as needed
 }
 
